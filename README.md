@@ -1,10 +1,17 @@
-- 👋 Hi, I’m @jellybean36
-- 👀 I’m interested in Web, and Android App, development
-- 🌱 I’m currently learning Javascript, Python, CSS, C/C++, Kotlin, 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: They/Them/Theirs
-- ⚡ Fun fact: ...
+- 👋 Hi, I’m Stef, 44, Male, in the UK.
+- 👀 I’m interested in learning to code.
+- 🌱 I’m currently starting out on my learning journey for the following languages;
+
+  <ol>
+    <li>C/C++</li>
+    <li>CSS</li>
+    <li>HTML</li>
+    <li>Javascript</li>
+    <li>Kotlin</li>
+    <li>Python</li>
+  </ol>
+
+- 😄 Pronouns: He/Him/His
 
 <!---
 jellybean36/jellybean36 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
